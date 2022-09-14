@@ -8,5 +8,7 @@ public class GitTest {
         System.out.println("hello git ----- 4");
         System.out.println("master text!");
         System.out.println("push test!");
+        System.out.println("爷改的！");
+        
     }
 }
